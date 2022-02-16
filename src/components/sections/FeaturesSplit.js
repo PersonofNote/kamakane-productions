@@ -72,7 +72,7 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">
                   Music Experience
                   </h3>
-                <p className="m-0">
+                <p >
                   Casey is a classically-trained guitarist who studied Flamenco in Spain
                   </p>
               </div>
@@ -98,7 +98,7 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">
                   Garden Tours
                   </h3>
-                <p className="m-0">
+                <p>
                   Get a glimpse of Eden and enjoy a piece of homegrown fruit
                   </p>
               </div>
@@ -124,7 +124,7 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">
                   Adventures
                 </h3>
-                <p className="m-0">
+                <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
               </div>
@@ -149,7 +149,7 @@ const FeaturesSplit = ({
                 <h3 className="mt-0 mb-12">
                   Rental Cars
                 </h3>
-                <p className="m-0">
+                <p>
                 Yep we got 'em.
                 </p>
               </div>
